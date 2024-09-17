@@ -5,8 +5,8 @@
   </a>
 
   <!-- Title -->
-  <h1>CodeCrush Computer Science Curriculum 🔬</h1>
-  <p><strong>Your pathway to becoming a tech rockstar from beginner to job-ready! 🔬</strong></p>
+  <h1>CodeCrush Computer Science Curriculum</h1>
+  <p><strong>Your pathway to becoming a computer science rockstar!</strong></p>
 
   <!-- Badges -->
   <p>
