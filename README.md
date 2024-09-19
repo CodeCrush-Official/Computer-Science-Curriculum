@@ -30,15 +30,15 @@
 ## **Contents**
 
 - [Summary](#summary)
+- [Courses](#course-requirements--guidelines)
 - [Community](#community)
-- [Curriculum Overview](#curriculum-overview)
-- [Courses](#courses)
-  - [Year 1](#year-1-foundations-of-cs)
-  - [Year 2](#year-2-intermediate-learning)
-  - [Year 3](#year-3-specializations)
-  - [Year 4](#year-4-mastery--capstone)
+- [Curriculum Overview](#curriculum-organization)
+  - [Year 1](#year-1-foundations-of-cs-️)
+  - [Year 2](#year-2-intermediate-learning-)
+  - [Year 3](#year-3-specializations-)
+  - [Year 4](#year-4-mastery--capstone-)
 - [Projects](#projects)
-- [Congratulations](#congratulations)
+- [Congratulations](#congratulations-)
 
 ---
 
@@ -90,7 +90,7 @@ The curriculum is organized into **four years**, each broken down by semesters. 
 
 ---
 
-### **Year 1** (Foundations of CS) 🏄‍♂️
+### Year 1 (Foundations of CS) 🏄‍♂️
 
 #### Semester 1:
 **Description**:  
