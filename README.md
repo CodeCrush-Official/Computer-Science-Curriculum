@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Logo at the top -->
-  <a href="https://discord.com/invite/2EzZ3VPzAG">
+  <a href="https://discord.gg/yKP6x5qj2Z">
     <img src="https://avatars.githubusercontent.com/u/179890607?v=4" alt="TheMagusCode Logo" style="width: 150px; height: auto;"/>
   </a>
 
@@ -10,7 +10,7 @@
 
   <!-- Badges -->
   <p>
-    <a href="https://discord.com/invite/2EzZ3VPzAG">
+    <a href="https://discord.gg/yKP6x5qj2Z">
       <img src="https://img.shields.io/discord/1279545032390475786?label=Join%20our%20Discord%20Community&logo=discord&style=for-the-badge" alt="Discord Server Badge"/>
     </a>
     <a href="https://github.com/TheMagusCode/Computer-Science-Curriculum/blob/main/LICENSE">
