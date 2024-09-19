@@ -13,10 +13,10 @@
     <a href="https://discord.com/invite/2EzZ3VPzAG">
       <img src="https://img.shields.io/discord/1279545032390475786?label=Join%20our%20Discord%20Community&logo=discord&style=for-the-badge" alt="Discord Server Badge"/>
     </a>
-    <a href="https://github.com/TheMagusCode-Official/Computer-Science-Curriculum/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/TheMagusCode-Official/Computer-Science-Curriculum?style=for-the-badge" alt="License Badge"/>
+    <a href="https://github.com/TheMagusCode/Computer-Science-Curriculum/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/TheMagusCode/Computer-Science-Curriculum?style=for-the-badge" alt="License Badge"/>
     </a>
-    <a href="https://github.com/TheMagusCode-Official/Computer-Science-Curriculum">
+    <a href="https://github.com/TheMagusCode/Computer-Science-Curriculum">
       <img src="https://img.shields.io/badge/Platform-TheMagusCode-brightgreen?style=for-the-badge" alt="TheMagusCode Badge"/>
     </a>
     <img src="https://img.shields.io/badge/subject-Computer--Science-blue?style=for-the-badge" alt="Computer Science Badge"/>
