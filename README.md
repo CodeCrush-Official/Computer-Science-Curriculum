@@ -1,11 +1,11 @@
 <div align="center">
   <!-- Logo at the top -->
   <a href="https://discord.com/invite/2EzZ3VPzAG">
-    <img src="https://avatars.githubusercontent.com/u/179890607?v=4" alt="CodeCrush Logo" style="width: 150px; height: auto;"/>
+    <img src="https://avatars.githubusercontent.com/u/179890607?v=4" alt="TheMagusCode Logo" style="width: 150px; height: auto;"/>
   </a>
 
   <!-- Title -->
-  <h1>CodeCrush Computer Science Curriculum</h1>
+  <h1>TheMagusCode Computer Science Curriculum</h1>
   <p><strong>Your pathway to becoming a computer science rockstar!</strong></p>
 
   <!-- Badges -->
@@ -13,11 +13,11 @@
     <a href="https://discord.com/invite/2EzZ3VPzAG">
       <img src="https://img.shields.io/discord/1279545032390475786?label=Join%20our%20Discord%20Community&logo=discord&style=for-the-badge" alt="Discord Server Badge"/>
     </a>
-    <a href="https://github.com/CodeCrush-Official/Computer-Science-Curriculum/blob/main/LICENSE">
-      <img src="https://img.shields.io/github/license/CodeCrush-Official/Computer-Science-Curriculum?style=for-the-badge" alt="License Badge"/>
+    <a href="https://github.com/TheMagusCode-Official/Computer-Science-Curriculum/blob/main/LICENSE">
+      <img src="https://img.shields.io/github/license/TheMagusCode-Official/Computer-Science-Curriculum?style=for-the-badge" alt="License Badge"/>
     </a>
-    <a href="https://github.com/CodeCrush-Official/Computer-Science-Curriculum">
-      <img src="https://img.shields.io/badge/Platform-CodeCrush-brightgreen?style=for-the-badge" alt="CodeCrush Badge"/>
+    <a href="https://github.com/TheMagusCode-Official/Computer-Science-Curriculum">
+      <img src="https://img.shields.io/badge/Platform-TheMagusCode-brightgreen?style=for-the-badge" alt="TheMagusCode Badge"/>
     </a>
     <img src="https://img.shields.io/badge/subject-Computer--Science-blue?style=for-the-badge" alt="Computer Science Badge"/>
     <img src="https://img.shields.io/badge/learning-mode%3A%20self--paced-orange?style=for-the-badge" alt="Self-Paced Badge"/>
@@ -44,7 +44,7 @@
 
 ## **Summary**
 
-The **CodeCrush Computer Science Curriculum** provides a comprehensive, industry-aligned education in computer science. Unlike traditional university programs, it is:
+The **TheMagusCode Computer Science Curriculum** provides a comprehensive, industry-aligned education in computer science. Unlike traditional university programs, it is:
 - **Self-paced**: Learn at your own speed.
 - **Project-oriented**: Build real-world projects for your portfolio.
 - **Community-driven**: Learn from and with others in the community.
@@ -57,7 +57,7 @@ The **CodeCrush Computer Science Curriculum** provides a comprehensive, industry
   - **Seek help**: Use the **Discord community** to ask questions, share progress, and get feedback.
 
 ### **Cost**  
-The **CodeCrush curriculum is 100% free**! All resources are open-source or publicly available, so you won’t need to spend a dime on expensive textbooks or courses.  
+The **TheMagusCode curriculum is 100% free**! All resources are open-source or publicly available, so you won’t need to spend a dime on expensive textbooks or courses.  
 - We rely on free, high-quality materials from trusted sources like **MIT OpenCourseWare**, **FreeCodeCamp**, and **Coursera**.
 
 ### **Process**  
@@ -257,11 +257,11 @@ Throughout the curriculum, you’ll build projects that demonstrate your knowled
 
 ## **Congratulations! 🎉**
 
-By following this curriculum, you're on your way to becoming a computer science expert! Keep going, build your portfolio, and join the **CodeCrush community** to share your progress and get help along the way. You’ve got this!
+By following this curriculum, you're on your way to becoming a computer science expert! Keep going, build your portfolio, and join the **TheMagusCode community** to share your progress and get help along the way. You’ve got this!
 
 ---
 
 ## **Get Started Today!**
 
-- **[Join the Community on Discord](https://discord.me/codecrush)**  
+- **[Join the Community on Discord](https://discord.me/TheMagusCode)**  
 - **[Start with Year 1](#year-1-foundations-of-cs-)**
